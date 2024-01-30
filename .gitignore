@@ -1,3 +1,4 @@
 node_modules
 .env
 blogs.json
+src/config/config.json
