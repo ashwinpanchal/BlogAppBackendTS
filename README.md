@@ -43,3 +43,5 @@ git clone https://github.com/ashwinpanchal/BlogAppBackendTS.git
 
 - We defined routing mechanism as well `routers`
 - `/api/v1/` is for version 1
+- We got a basic idea of how to make CRUD in typescript
+- If we want to use the `.js` files in out project then we have to allowJS in tscofig file
